@@ -3,40 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Ejercicios_Corte1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicios_Corte1\\Ejercicios_Corte1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicios_Corte1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Ejercicios_Clases\\App_Musica\\Podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicios_Corte1\\Ejercicios_Clases\\App_Musica\\Podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Ejercicios_Clases\\App_Musica\\Interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicios_Corte1\\Ejercicios_Clases\\App_Musica\\Interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Ejercicios_Clases\\App_Musica\\Cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicios_Corte1\\Ejercicios_Clases\\App_Musica\\Cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Ejercicios_Clases\\Sistema_Mascotas\\Mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicios_Corte1\\Ejercicios_Clases\\Sistema_Mascotas\\Mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Ejercicios_Clases\\Sistema_Mascotas\\Loro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicios_Corte1\\Ejercicios_Clases\\Sistema_Mascotas\\Loro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Ejercicios_Clases\\Sistema_Mascotas\\Gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicios_Corte1\\Ejercicios_Clases\\Sistema_Mascotas\\Gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Ejercicios_Clases\\Inventario_Tienda\\Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicios_Corte1\\Ejercicios_Clases\\Inventario_Tienda\\Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\ProgIII\\ProgIII.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProgIII\\ProgIII.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,109 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Ejercicios_Corte1.csproj",
-              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Ejercicios_Corte1.csproj",
-              "RelativeDocumentMoniker": "Ejercicios_Corte1\\Ejercicios_Corte1.csproj",
-              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Ejercicios_Corte1.csproj",
-              "RelativeToolTip": "Ejercicios_Corte1\\Ejercicios_Corte1.csproj",
+              "Title": "ProgIII.csproj",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\ProgIII\\ProgIII.csproj",
+              "RelativeDocumentMoniker": "ProgIII\\ProgIII.csproj",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\ProgIII\\ProgIII.csproj",
+              "RelativeToolTip": "ProgIII\\ProgIII.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-27T04:53:02.338Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Podcast.cs",
-              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Ejercicios_Clases\\App_Musica\\Podcast.cs",
-              "RelativeDocumentMoniker": "Ejercicios_Corte1\\Ejercicios_Clases\\App_Musica\\Podcast.cs",
-              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Ejercicios_Clases\\App_Musica\\Podcast.cs",
-              "RelativeToolTip": "Ejercicios_Corte1\\Ejercicios_Clases\\App_Musica\\Podcast.cs",
-              "ViewState": "AgIAAAoAAABQMzMzM7MiwAYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T04:38:45.98Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Interface.cs",
-              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Ejercicios_Clases\\App_Musica\\Interface.cs",
-              "RelativeDocumentMoniker": "Ejercicios_Corte1\\Ejercicios_Clases\\App_Musica\\Interface.cs",
-              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Ejercicios_Clases\\App_Musica\\Interface.cs",
-              "RelativeToolTip": "Ejercicios_Corte1\\Ejercicios_Clases\\App_Musica\\Interface.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T04:38:39.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Cancion.cs",
-              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Ejercicios_Clases\\App_Musica\\Cancion.cs",
-              "RelativeDocumentMoniker": "Ejercicios_Corte1\\Ejercicios_Clases\\App_Musica\\Cancion.cs",
-              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Ejercicios_Clases\\App_Musica\\Cancion.cs",
-              "RelativeToolTip": "Ejercicios_Corte1\\Ejercicios_Clases\\App_Musica\\Cancion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T04:38:30.201Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Mascota.cs",
-              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Ejercicios_Clases\\Sistema_Mascotas\\Mascota.cs",
-              "RelativeDocumentMoniker": "Ejercicios_Corte1\\Ejercicios_Clases\\Sistema_Mascotas\\Mascota.cs",
-              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Ejercicios_Clases\\Sistema_Mascotas\\Mascota.cs",
-              "RelativeToolTip": "Ejercicios_Corte1\\Ejercicios_Clases\\Sistema_Mascotas\\Mascota.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T04:37:59.178Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Loro.cs",
-              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Ejercicios_Clases\\Sistema_Mascotas\\Loro.cs",
-              "RelativeDocumentMoniker": "Ejercicios_Corte1\\Ejercicios_Clases\\Sistema_Mascotas\\Loro.cs",
-              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Ejercicios_Clases\\Sistema_Mascotas\\Loro.cs",
-              "RelativeToolTip": "Ejercicios_Corte1\\Ejercicios_Clases\\Sistema_Mascotas\\Loro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T04:37:43.777Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Gato.cs",
-              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Ejercicios_Clases\\Sistema_Mascotas\\Gato.cs",
-              "RelativeDocumentMoniker": "Ejercicios_Corte1\\Ejercicios_Clases\\Sistema_Mascotas\\Gato.cs",
-              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Ejercicios_Clases\\Sistema_Mascotas\\Gato.cs",
-              "RelativeToolTip": "Ejercicios_Corte1\\Ejercicios_Clases\\Sistema_Mascotas\\Gato.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T04:37:09.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Ejercicios_Clases\\Inventario_Tienda\\Producto.cs",
-              "RelativeDocumentMoniker": "Ejercicios_Corte1\\Ejercicios_Clases\\Inventario_Tienda\\Producto.cs",
-              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Ejercicios_Clases\\Inventario_Tienda\\Producto.cs",
-              "RelativeToolTip": "Ejercicios_Corte1\\Ejercicios_Clases\\Inventario_Tienda\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T04:34:47.036Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicios_Corte1\\Program.cs",
-              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\Ejercicios_Corte1\\Program.cs",
-              "RelativeToolTip": "Ejercicios_Corte1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T04:34:34.987Z"
+              "WhenOpened": "2026-02-27T05:42:14.979Z",
+              "EditorCaption": ""
             }
           ]
         }
