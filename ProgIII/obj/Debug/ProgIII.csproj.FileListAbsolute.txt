@@ -1,0 +1,7 @@
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\ProgIII\obj\Debug\ProgIII.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\ProgIII\obj\Debug\ProgIII.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\ProgIII\bin\Debug\ProgIII.exe.config
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\ProgIII\bin\Debug\ProgIII.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\ProgIII\bin\Debug\ProgIII.pdb
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\ProgIII\obj\Debug\ProgIII.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\ProgIII\obj\Debug\ProgIII.pdb

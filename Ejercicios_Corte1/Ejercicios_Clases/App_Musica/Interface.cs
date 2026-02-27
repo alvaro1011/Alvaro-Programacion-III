@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Corte_1.Ejercicios_Basicos.App_Musica
+namespace Ejercicios_Corte1.Ejercicios_Clases.App_Musica
 {
     public interface IReproductor
     {

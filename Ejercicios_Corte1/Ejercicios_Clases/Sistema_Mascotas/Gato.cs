@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Corte_1.Ejercicios_Basicos.Sistema_Mascotas
+namespace Ejercicios_Corte1.Ejercicios_Clases.Sistema_Mascotas
 {
     public class Gato : Mascota
     {
