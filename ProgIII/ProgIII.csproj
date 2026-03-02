@@ -51,6 +51,7 @@
     <Compile Include="Ejercicios_Clase\Ejercicio3\Interface.cs" />
     <Compile Include="Ejercicios_Clase\Ejercicio3\Podcast.cs" />
     <Compile Include="Ejercicios_Clase\Ejercicio4\Libro.cs" />
+    <Compile Include="Ejercicios_Clase\Ejercicio5\Simulador_Semaforo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
