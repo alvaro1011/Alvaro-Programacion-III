@@ -1,0 +1,7 @@
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\Ejercicios POO\obj\Debug\Ejercicios POO.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\Ejercicios POO\obj\Debug\Ejercicios POO.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\Ejercicios POO\bin\Debug\Ejercicios POO.exe.config
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\Ejercicios POO\bin\Debug\Ejercicios POO.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\Ejercicios POO\bin\Debug\Ejercicios POO.pdb
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\Ejercicios POO\obj\Debug\Ejercicios POO.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\Ejercicios POO\obj\Debug\Ejercicios POO.pdb
