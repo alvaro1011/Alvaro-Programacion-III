@@ -82,8 +82,20 @@ namespace ProgIII
                 }
                 else if (opcion == 5)
                 {
-                    Console.WriteLine("Vehículos Eléctricos - En desarrollo...");
-                }
+                    Console.WriteLine("========== VEHÍCULOS ELÉCTRICOS ==========");
+                    VehiculoElectrico miCoche = new VehiculoElectrico("Tesla Model 3", 75);
+                    Console.WriteLine("Vehículo: " + miCoche.Modelo + " | Batería: " + miCoche.Bateria + "%");
+                    console.WriteLine("\nPresione Enter para conducir el vehículo...");
+                    Console.ReadLine();
+                    miCoche.Viajar(30);
+                    Console.WriteLine("\nIntentando viajar 50 km más...");
+                    miCoche.Viajar(50);
+                    Console.WriteLine("\nIntentando viajar 10 km más con batería agotada...");
+                    miCoche.Viajar(10);
+                    Console.WriteLine("\nPresione Enter para finalizar el programa...");
+                    Console.ReadLine();
+           
+            }
                 else
                 {
                     Console.WriteLine("Opción no válida.");

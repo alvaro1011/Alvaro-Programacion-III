@@ -6,35 +6,31 @@ using System.Threading.Tasks;
 
 namespace ProgIII.Ejercicios_Clase.Ejercicio5
 {
-    public class SemaforoInteligente
+    public class VehiculoElectrico
     {
-        public string ColorActual;
-
-       public SemaforoInteligente(string color)
+        public string modelo;
+        public int bateria;
+        public VehiculoElectrico(string modeloAuto, int cargaInicial)
         {
-            ColorActual = color.ToLower();
-
+            modelo = modeloAuto;
+            bateria = cargaInicial;
         }
-
-        public void MostrarAccion()
+        public void Viajar(int km)
         {
-            Console.WriteLine("");
-
-            if (ColorActual == "verde")
+            if (bateria <= 0)
             {
-                Console.WriteLine("Accion: Sigue adelante");
+                Console.WriteLine("Error: El vehículo no tiene carga para iniciar el viaje.");
+                return;
             }
-            else if (ColorActual == "amarillo")
+            bateria = bateria - km;
+            if (bateria <= 0)
             {
-                Console.WriteLine("Accion: Preparate para frenar");
-            }
-            else if (ColorActual == "rojo")
-            {
-                Console.WriteLine("Accion: ¡Detente!");
+                bateria = 0;
+                Console.WriteLine("ALERTA: " + modelo + " se ha quedado sin energía. NECESITA CARGA INMEDIATA.");
             }
             else
             {
-                Console.WriteLine("Color no reconocido. Intente de nuevo.");
+                Console.WriteLine("Viaje completado. Batería restante: " + bateria + "%");
             }
         }
     }
