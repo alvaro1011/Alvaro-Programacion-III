@@ -1,0 +1,66 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using ejercio_parcial.BibliotecaDigital.Modelos;
+using ejercio_parcial.BibliotecaDigital.Interface;
+using ejercio_parcial.BibliotecaDigital;
+using ejercio_parcial.Bi
+
+namespace ejercio_parcial
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Bienvenido a la Biblioteca Digital");
+            Console.WriteLine("Seleccione una opción:");
+            Console.WriteLine("1. Mostrar información de la biblioteca");
+            Console.WriteLine("2. Mostrar audiolibros disponibles");
+            Console.WriteLine("3. Mostrar libros disponibles");
+            Console.WriteLine("4. Mostrar revistas disponibles");
+            Console.WriteLine("5. Prestar un material");
+            Console.WriteLine("6. Devolver un material");
+            Console.WriteLine("7. Salir");
+            Console.WriteLine("Ingrese el número de la opción deseada:");
+            int opcion = int.Parse(Console.ReadLine());
+
+            List<BibliotecaDigital>biblioteca = new List<BibliotecaDigital>();
+            BibliotecaDigital.add new Libro("Don Quijote", "Miguel de Cervantes", 1, 1605, "Novela", 863, 123456789);
+
+            switch (opcion)
+            {
+                case 1:
+                    Console.WriteLine("Información de la Biblioteca Digital:");
+                    Console.WriteLine("Libros disponibles: " + biblioteca.Count);
+                    Console.WriteLine("Audiolibros disponibles: " + biblioteca.Count);
+                    Console.WriteLine("Revistas disponibles: " + biblioteca.Count);
+                    Console.WriteLine("Materiales prestados: " + biblioteca.Count);
+
+                    break;
+                case 2:
+                    // Mostrar audiolibros disponibles
+                    break;
+                case 3:
+                    // Mostrar libros disponibles
+                    break;
+                case 4:
+                    // Mostrar revistas disponibles
+                    break;
+                case 5:
+                    // Prestar un material
+                    break;
+                case 6:
+                    // Devolver un material
+                    break;
+                case 7:
+                    Console.WriteLine("Gracias por usar la Biblioteca Digital. ¡Hasta luego!");
+                    break;
+                default:
+                    Console.WriteLine("Opción no válida. Por favor, seleccione una opción del 1 al 7.");
+                    break;
+            }
+        }
+    }
+}
