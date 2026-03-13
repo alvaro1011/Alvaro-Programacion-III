@@ -1,0 +1,45 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using tipo_parcial_2.ConcesionarioVehiculos.enums;
+using tipo_parcial_2.ConcesionarioVehiculos.Interfaces;
+
+namespace tipo_parcial_2.ConcesionarioVehiculos.modelos
+{
+    public class Motocicleta: Vehiculo, IVendible
+    {
+        public int Cilindraje { get; set; }
+        public bool EsDeportiva { get; set; }
+
+        public Motocicleta(string id, string marca, string modelo, int year, decimal preciobase, TipoCombustible combustible, EstadoVehiculo estado, int cilindraje, bool esdeportiva)
+            : base(id, marca, modelo, year, preciobase, combustible, estado)
+        {
+            this.Cilindraje = cilindraje;
+            this.EsDeportiva = esdeportiva;
+        }
+
+        public override decimal CalcularPrecioFinal()
+        {
+            decimal precioFinal = PrecioBase;
+            if (EsDeportiva) precioFinal += (Cilindraje * 10);
+            return precioFinal;
+        }
+
+        public override decimal CalcularComisionVendedor()
+        {
+            return CalcularPrecioFinal() * 0.03m;
+        }
+
+        public override void GenerarFacturaVenta()
+        {
+            MostrarInformacion();
+            Console.WriteLine($"Cilindraje: {Cilindraje}cc");
+            Console.WriteLine($"Es Deportiva: {(EsDeportiva ? "Sí" : "No")}");
+            Console.WriteLine($"Precio Final: {CalcularPrecioFinal()}");
+            Console.WriteLine($"Comisión Vendedor: {CalcularComisionVendedor()}");
+        }
+
+    }
+}
