@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using tipo_parcial_2.ConcesionarioVehiculos.enums;
 using tipo_parcial_2.ConcesionarioVehiculos.Interfaces;
+using tipo_parcial_2.ConcesionarioVehiculos.modelos;
 
 namespace tipo_parcial_2.ConcesionarioVehiculos.modelos
 {
