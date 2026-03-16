@@ -1,0 +1,7 @@
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\reto\obj\Debug\reto.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\reto\obj\Debug\reto.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\reto\bin\Debug\reto.exe.config
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\reto\bin\Debug\reto.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\reto\bin\Debug\reto.pdb
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\reto\obj\Debug\reto.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\reto\obj\Debug\reto.pdb
