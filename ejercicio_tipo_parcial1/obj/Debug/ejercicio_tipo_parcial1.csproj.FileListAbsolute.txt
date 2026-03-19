@@ -1,0 +1,7 @@
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\ejercicio_tipo_parcial1\obj\Debug\ejercicio_tipo_parcial1.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\ejercicio_tipo_parcial1\obj\Debug\ejercicio_tipo_parcial1.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\ejercicio_tipo_parcial1\bin\Debug\ejercicio_tipo_parcial1.exe.config
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\ejercicio_tipo_parcial1\bin\Debug\ejercicio_tipo_parcial1.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\ejercicio_tipo_parcial1\bin\Debug\ejercicio_tipo_parcial1.pdb
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\ejercicio_tipo_parcial1\obj\Debug\ejercicio_tipo_parcial1.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\ejercicio_tipo_parcial1\obj\Debug\ejercicio_tipo_parcial1.pdb
