@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\parcial_practica2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C745803C-D332-4160-B840-BEF2BCE3CAA4}|parcial_practica2.csproj|c:\\users\\alvar\\onedrive\\documentos\\github\\alvaro-programacion-iii\\parcial_practica2\\healt tech\\enum\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C745803C-D332-4160-B840-BEF2BCE3CAA4}|parcial_practica2.csproj|solutionrelative:healt tech\\enum\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C745803C-D332-4160-B840-BEF2BCE3CAA4}|parcial_practica2.csproj|c:\\users\\alvar\\onedrive\\documentos\\github\\alvaro-programacion-iii\\parcial_practica2\\healt tech\\interface\\iprioritario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C745803C-D332-4160-B840-BEF2BCE3CAA4}|parcial_practica2.csproj|solutionrelative:healt tech\\interface\\iprioritario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C745803C-D332-4160-B840-BEF2BCE3CAA4}|parcial_practica2.csproj|c:\\users\\alvar\\onedrive\\documentos\\github\\alvaro-programacion-iii\\parcial_practica2\\healt tech\\modelos\\citamedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C745803C-D332-4160-B840-BEF2BCE3CAA4}|parcial_practica2.csproj|solutionrelative:healt tech\\modelos\\citamedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C745803C-D332-4160-B840-BEF2BCE3CAA4}|parcial_practica2.csproj|C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\parcial_practica2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C745803C-D332-4160-B840-BEF2BCE3CAA4}|parcial_practica2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C745803C-D332-4160-B840-BEF2BCE3CAA4}|parcial_practica2.csproj|c:\\users\\alvar\\onedrive\\documentos\\github\\alvaro-programacion-iii\\parcial_practica2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C745803C-D332-4160-B840-BEF2BCE3CAA4}|parcial_practica2.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\parcial_practica2\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\parcial_practica2\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-19T20:45:12.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPrioritario.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\parcial_practica2\\Healt Tech\\Interface\\IPrioritario.cs",
+              "RelativeDocumentMoniker": "Healt Tech\\Interface\\IPrioritario.cs",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\parcial_practica2\\Healt Tech\\Interface\\IPrioritario.cs",
+              "RelativeToolTip": "Healt Tech\\Interface\\IPrioritario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T20:47:18.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CitaMedica.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\parcial_practica2\\Healt Tech\\modelos\\CitaMedica.cs",
+              "RelativeDocumentMoniker": "Healt Tech\\modelos\\CitaMedica.cs",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\parcial_practica2\\Healt Tech\\modelos\\CitaMedica.cs",
+              "RelativeToolTip": "Healt Tech\\modelos\\CitaMedica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T20:46:26.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Especialidad.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\parcial_practica2\\Healt Tech\\enum\\Especialidad.cs",
+              "RelativeDocumentMoniker": "Healt Tech\\enum\\Especialidad.cs",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\parcial_practica2\\Healt Tech\\enum\\Especialidad.cs",
+              "RelativeToolTip": "Healt Tech\\enum\\Especialidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T20:45:10.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\parcial_practica2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\parcial_practica2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T20:13:43.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\parcial_practica2\obj\Debug\parcial_practica2.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\parcial_practica2\obj\Debug\parcial_practica2.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\parcial_practica2\bin\Debug\parcial_practica2.exe.config
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\parcial_practica2\bin\Debug\parcial_practica2.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\parcial_practica2\bin\Debug\parcial_practica2.pdb
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\parcial_practica2\obj\Debug\parcial_practica2.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\parcial_practica2\obj\Debug\parcial_practica2.pdb
