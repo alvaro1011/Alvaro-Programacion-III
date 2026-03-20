@@ -1,0 +1,17 @@
+﻿using System;
+
+namespace gestor_contactos.Models
+{
+    // Clase base simple para compartir nombre y teléfono
+    public class Persona
+    {
+        public string Nombre { get; set; }
+        public string Telefono { get; set; }
+
+        public Persona(string nombre, string telefono)
+        {
+            Nombre = nombre ?? string.Empty;
+            Telefono = telefono ?? string.Empty;
+        }
+    }
+}

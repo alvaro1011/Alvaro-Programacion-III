@@ -1,0 +1,22 @@
+﻿using System;
+
+namespace gestor_contactos.Models
+{
+    // Contacto personal con relación
+    public class ContactoPersonal : Contacto
+    {
+        public string Relacion { get; set; }
+
+        public ContactoPersonal(string nombre, string telefono, string correo, string relacion)
+            : base(nombre, telefono, correo)
+        {
+            Relacion = relacion ?? string.Empty;
+        }
+
+        public override string ToCSV()
+        {
+            // Incluye la relación al final pero mantiene los tres campos principales
+            return base.ToCSV() + ";" + Relacion;
+        }
+    }
+}

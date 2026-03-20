@@ -1,0 +1,63 @@
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace diario_personal
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.OutputEncoding = Encoding.UTF8;
+
+            Console.Write("Ingrese su nombre: ");
+            var nombre = Console.ReadLine();
+            if (string.IsNullOrWhiteSpace(nombre))
+            {
+                nombre = "Usuario";
+            }
+
+            var filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "diario.txt");
+
+            if (File.Exists(filePath))
+            {
+                var lines = File.ReadAllLines(filePath);
+                Console.WriteLine();
+                Console.WriteLine("Últimas entradas:");
+                foreach (var line in lines.Skip(Math.Max(0, lines.Length - 3)))
+                {
+                    Console.WriteLine(line);
+                }
+            }
+            else
+            {
+                Console.WriteLine();
+                Console.WriteLine("No hay entradas previas.");
+            }
+
+            Console.WriteLine();
+            Console.Write("Escribe tu pensamiento o actividad del día: ");
+            var mensaje = Console.ReadLine() ?? string.Empty;
+
+            var timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+            var entry = $"[{timestamp}] - {nombre}: {mensaje}{Environment.NewLine}";
+
+            try
+            {
+                File.AppendAllText(filePath, entry, Encoding.UTF8);
+                Console.WriteLine();
+                Console.WriteLine("Entrada guardada.");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error al guardar la entrada: {ex.Message}");
+            }
+
+            Console.WriteLine("Presiona una tecla para salir...");
+            Console.ReadKey();
+        }
+    }
+}

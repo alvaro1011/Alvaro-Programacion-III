@@ -1,0 +1,21 @@
+﻿using System;
+
+namespace gestor_contactos.Models
+{
+    // Contacto de trabajo con empresa
+    public class ContactoTrabajo : Contacto
+    {
+        public string Empresa { get; set; }
+
+        public ContactoTrabajo(string nombre, string telefono, string correo, string empresa)
+            : base(nombre, telefono, correo)
+        {
+            Empresa = empresa ?? string.Empty;
+        }
+
+        public override string ToCSV()
+        {
+            return base.ToCSV() + ";" + Empresa;
+        }
+    }
+}

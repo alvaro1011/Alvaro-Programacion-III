@@ -1,0 +1,7 @@
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\proyectos csv\bin\Debug\proyectos csv.exe.config
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\proyectos csv\bin\Debug\proyectos csv.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\proyectos csv\bin\Debug\proyectos csv.pdb
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\proyectos csv\obj\Debug\proyectos csv.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\proyectos csv\obj\Debug\proyectos csv.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\proyectos csv\obj\Debug\proyectos csv.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\proyectos csv\obj\Debug\proyectos csv.pdb

@@ -1,0 +1,7 @@
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\diario personal\bin\Debug\diario personal.exe.config
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\diario personal\bin\Debug\diario personal.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\diario personal\bin\Debug\diario personal.pdb
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\diario personal\obj\Debug\diario personal.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\diario personal\obj\Debug\diario personal.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\diario personal\obj\Debug\diario personal.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\diario personal\obj\Debug\diario personal.pdb

@@ -1,0 +1,7 @@
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\gestor contactos\bin\Debug\gestor contactos.exe.config
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\gestor contactos\bin\Debug\gestor contactos.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\gestor contactos\bin\Debug\gestor contactos.pdb
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\gestor contactos\obj\Debug\gestor contactos.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\gestor contactos\obj\Debug\gestor contactos.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\gestor contactos\obj\Debug\gestor contactos.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\gestor contactos\obj\Debug\gestor contactos.pdb

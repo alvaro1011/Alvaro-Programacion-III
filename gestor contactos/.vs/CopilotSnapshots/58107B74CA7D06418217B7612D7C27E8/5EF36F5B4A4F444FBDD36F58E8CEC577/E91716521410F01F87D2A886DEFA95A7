@@ -1,0 +1,112 @@
+﻿using System;
+using System.IO;
+using gestor_contactos.Models;
+
+namespace gestor_contactos
+{
+    internal class Program
+    {
+        private static readonly string FilePath = "contactos.csv";
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Gestor de Contactos Simple (CSV)");
+
+            bool agregar = true;
+            while (agregar)
+            {
+                Console.Write("Nombre: ");
+                var nombre = Console.ReadLine();
+                if (nombre != null)
+                    nombre = nombre.Trim();
+                else
+                    nombre = string.Empty;
+
+                Console.Write("Teléfono: ");
+                var telefono = Console.ReadLine();
+                if (telefono != null)
+                    telefono = telefono.Trim();
+                else
+                    telefono = string.Empty;
+
+                Console.Write("Correo: ");
+                var correo = Console.ReadLine();
+                if (correo != null)
+                    correo = correo.Trim().ToLower();
+                else
+                    correo = string.Empty;
+
+                Console.Write("Tipo (1=Personal, 2=Trabajo, otro=Normal): ");
+                var tipo = Console.ReadLine();
+                if (tipo != null)
+                    tipo = tipo.Trim();
+                else
+                    tipo = string.Empty;
+
+                Contacto contacto;
+                if (tipo == "1")
+                {
+                    Console.Write("Relación (ej: amigo, familia): ");
+                    var relacion = Console.ReadLine();
+                    if (relacion != null)
+                        relacion = relacion.Trim();
+                    else
+                        relacion = string.Empty;
+                    contacto = new ContactoPersonal(nombre, telefono, correo, relacion);
+                }
+                else if (tipo == "2")
+                {
+                    Console.Write("Empresa: ");
+                    var empresa = Console.ReadLine();
+                    if (empresa != null)
+                        empresa = empresa.Trim();
+                    else
+                        empresa = string.Empty;
+                    contacto = new ContactoTrabajo(nombre, telefono, correo, empresa);
+                }
+                else
+                {
+                    contacto = new Contacto(nombre, telefono, correo);
+                }
+
+                File.AppendAllText(FilePath, contacto.ToCSV() + Environment.NewLine);
+                Console.WriteLine("Contacto guardado en '{0}'.", FilePath);
+
+                Console.Write("¿Desea agregar otro contacto? (s/n): ");
+                var resp = Console.ReadLine();
+                if (resp == null)
+                    agregar = false;
+                else if (resp.Trim().ToLower() != "s")
+                    agregar = false;
+            }
+
+            Console.Write("¿Listar contactos? (s/n): ");
+            var listar = Console.ReadLine();
+            if (listar != null && listar.Trim().ToLower() == "s")
+            {
+                if (!File.Exists(FilePath))
+                {
+                    Console.WriteLine("No hay contactos guardados.");
+                }
+                else
+                {
+                    var lines = File.ReadAllLines(FilePath);
+                    Console.WriteLine();
+                    Console.WriteLine("{0,-25} {1,-15} {2,-30}", "Nombre", "Teléfono", "Correo");
+                    Console.WriteLine(new string('-', 72));
+                    foreach (var line in lines)
+                    {
+                        var parts = line.Split(';');
+                        var n = parts.Length > 0 ? parts[0] : string.Empty;
+                        var t = parts.Length > 1 ? parts[1] : string.Empty;
+                        var c = parts.Length > 2 ? parts[2] : string.Empty;
+                        Console.WriteLine("{0,-25} {1,-15} {2,-30}", n, t, c);
+                    }
+                }
+            }
+
+            Console.WriteLine("Fin. Presione una tecla para salir.");
+            Console.ReadKey();
+        }
+    }
+}

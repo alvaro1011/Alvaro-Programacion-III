@@ -1,0 +1,158 @@
+﻿using System;
+using System.IO;
+
+namespace gestor_contactos
+{
+    internal class Program
+    {
+        private static readonly string FilePath = "contactos.csv";
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Gestor de Contactos Simple (CSV)");
+
+            bool agregar = true;
+            while (agregar)
+            {
+                Console.Write("Nombre: ");
+                var nombre = Console.ReadLine()?.Trim();
+
+                Console.Write("Teléfono: ");
+                var telefono = Console.ReadLine()?.Trim();
+
+                Console.Write("Correo: ");
+                var correo = Console.ReadLine()?.Trim().ToLower();
+
+                Console.Write("Tipo (1=Personal, 2=Trabajo, otro=Normal): ");
+                var tipo = Console.ReadLine();
+
+                Contacto contacto;
+                if (tipo == "1")
+                {
+                    Console.Write("Relación (ej: amigo, familia): ");
+                    var relacion = Console.ReadLine()?.Trim();
+                    contacto = new ContactoPersonal(nombre, telefono, correo, relacion);
+                }
+                else if (tipo == "2")
+                {
+                    Console.Write("Empresa: ");
+                    var empresa = Console.ReadLine()?.Trim();
+                    contacto = new ContactoTrabajo(nombre, telefono, correo, empresa);
+                }
+                else
+                {
+                    contacto = new Contacto(nombre, telefono, correo);
+                }
+
+                try
+                {
+                    File.AppendAllText(FilePath, contacto.ToCSV() + Environment.NewLine);
+                    Console.WriteLine("Contacto guardado en '{0}'.", FilePath);
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("Error al guardar el contacto: " + ex.Message);
+                }
+
+                Console.Write("¿Desea agregar otro contacto? (s/n): ");
+                var resp = Console.ReadLine();
+                if (string.IsNullOrEmpty(resp) || resp.Trim().ToLower() != "s")
+                    agregar = false;
+            }
+
+            Console.Write("¿Listar contactos? (s/n): ");
+            var listar = Console.ReadLine();
+            if (!string.IsNullOrEmpty(listar) && listar.Trim().ToLower() == "s")
+            {
+                if (!File.Exists(FilePath))
+                {
+                    Console.WriteLine("No hay contactos guardados.");
+                }
+                else
+                {
+                    var lines = File.ReadAllLines(FilePath);
+                    Console.WriteLine();
+                    Console.WriteLine("{0,-25} {1,-15} {2,-30}", "Nombre", "Teléfono", "Correo");
+                    Console.WriteLine(new string('-', 72));
+                    foreach (var line in lines)
+                    {
+                        var parts = line.Split(';');
+                        var n = parts.Length > 0 ? parts[0] : string.Empty;
+                        var t = parts.Length > 1 ? parts[1] : string.Empty;
+                        var c = parts.Length > 2 ? parts[2] : string.Empty;
+                        Console.WriteLine("{0,-25} {1,-15} {2,-30}", n, t, c);
+                    }
+                }
+            }
+
+            Console.WriteLine("Fin. Presione una tecla para salir.");
+            Console.ReadKey();
+        }
+    }
+
+    // Clase base simple para compartir nombre y teléfono
+    public class Persona
+    {
+        public string Nombre { get; set; }
+        public string Telefono { get; set; }
+
+        public Persona(string nombre, string telefono)
+        {
+            Nombre = nombre ?? string.Empty;
+            Telefono = telefono ?? string.Empty;
+        }
+    }
+
+    // Contacto principal con correo y método ToCSV
+    public class Contacto : Persona
+    {
+        public string Correo { get; set; }
+
+        public Contacto(string nombre, string telefono, string correo)
+            : base(nombre, telefono)
+        {
+            Correo = correo ?? string.Empty;
+        }
+
+        public virtual string ToCSV()
+        {
+            // formato: Nombre;Telefono;Correo
+            return string.Format("{0};{1};{2}", Nombre, Telefono, Correo);
+        }
+    }
+
+    // Contacto personal con relación
+    public class ContactoPersonal : Contacto
+    {
+        public string Relacion { get; set; }
+
+        public ContactoPersonal(string nombre, string telefono, string correo, string relacion)
+            : base(nombre, telefono, correo)
+        {
+            Relacion = relacion ?? string.Empty;
+        }
+
+        public override string ToCSV()
+        {
+            // Incluye la relación al final pero mantiene los tres campos principales
+            return base.ToCSV() + ";" + Relacion;
+        }
+    }
+
+    // Contacto de trabajo con empresa
+    public class ContactoTrabajo : Contacto
+    {
+        public string Empresa { get; set; }
+
+        public ContactoTrabajo(string nombre, string telefono, string correo, string empresa)
+            : base(nombre, telefono, correo)
+        {
+            Empresa = empresa ?? string.Empty;
+        }
+
+        public override string ToCSV()
+        {
+            return base.ToCSV() + ";" + Empresa;
+        }
+    }
+}
