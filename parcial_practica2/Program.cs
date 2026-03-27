@@ -52,7 +52,7 @@ namespace parcial_practica2
             Console.Write("Costo base: ");
             double costo = double.Parse(Console.ReadLine());
 
-            // Simulando tu clase CitaMedica
+            
             string nuevaLinea = $"{nombre},{esp},{costo}";
             File.AppendAllLines(ruta, new List<string> { nuevaLinea });
 
@@ -90,8 +90,8 @@ namespace parcial_practica2
                 // Usamos ToUpper() para que no importe si escriben "juan" o "JUAN"
                 if (datos[0].Trim().ToUpper() == nombrePaciente.Trim().ToUpper())
                 {
-                    datos[1] = nuevaEsp.ToString(); // Cambiamos solo especialidad
-                    lineas[i] = string.Join(",", datos); // Reconstruimos manteniendo el resto
+                    datos[1] = nuevaEsp.ToString(); 
+                    lineas[i] = string.Join(",", datos); // 
                     encontrado = true;
                     break;
                 }

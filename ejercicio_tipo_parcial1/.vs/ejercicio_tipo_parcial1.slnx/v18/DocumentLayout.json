@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\ejercicio_tipo_parcial1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D35275C-95DE-41E3-BD1A-0E7E48141073}|ejercicio_tipo_parcial1.csproj|c:\\users\\alvar\\onedrive\\documentos\\github\\alvaro-programacion-iii\\ejercicio_tipo_parcial1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D35275C-95DE-41E3-BD1A-0E7E48141073}|ejercicio_tipo_parcial1.csproj|C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\ejercicio_tipo_parcial1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D35275C-95DE-41E3-BD1A-0E7E48141073}|ejercicio_tipo_parcial1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D35275C-95DE-41E3-BD1A-0E7E48141073}|ejercicio_tipo_parcial1.csproj|c:\\users\\alvar\\onedrive\\documentos\\github\\alvaro-programacion-iii\\ejercicio_tipo_parcial1\\globalship\\modelo\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D35275C-95DE-41E3-BD1A-0E7E48141073}|ejercicio_tipo_parcial1.csproj|solutionrelative:globalship\\modelo\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D35275C-95DE-41E3-BD1A-0E7E48141073}|ejercicio_tipo_parcial1.csproj|c:\\users\\alvar\\onedrive\\documentos\\github\\alvaro-programacion-iii\\ejercicio_tipo_parcial1\\globalship\\enunm\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D35275C-95DE-41E3-BD1A-0E7E48141073}|ejercicio_tipo_parcial1.csproj|solutionrelative:globalship\\enunm\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D35275C-95DE-41E3-BD1A-0E7E48141073}|ejercicio_tipo_parcial1.csproj|C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\ejercicio_tipo_parcial1\\globalship\\modelo\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D35275C-95DE-41E3-BD1A-0E7E48141073}|ejercicio_tipo_parcial1.csproj|solutionrelative:globalship\\modelo\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Tipo.cs",
               "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\ejercicio_tipo_parcial1\\GlobalShip\\Enunm\\Tipo.cs",
               "RelativeDocumentMoniker": "GlobalShip\\Enunm\\Tipo.cs",
@@ -39,16 +39,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Paquete.cs",
               "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\ejercicio_tipo_parcial1\\GlobalShip\\modelo\\Paquete.cs",
               "RelativeDocumentMoniker": "GlobalShip\\modelo\\Paquete.cs",
               "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\ejercicio_tipo_parcial1\\GlobalShip\\modelo\\Paquete.cs",
               "RelativeToolTip": "GlobalShip\\modelo\\Paquete.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T13:32:18.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T13:32:18.489Z"
             },
             {
               "$type": "Document",
@@ -58,7 +57,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\ejercicio_tipo_parcial1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEQAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T13:30:27.034Z",
               "EditorCaption": ""

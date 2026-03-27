@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace parcial_practica2.Healt_Tech.Interface
+namespace ferreteria_pro
 {
-    internal interface IPrioritario
+    internal class Program
     {
-        double AplicarDescuento();
+        static void Main(string[] args)
+        {
+        }
     }
 }

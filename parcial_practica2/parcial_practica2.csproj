@@ -44,7 +44,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Healt Tech\enum\Especialidad.cs" />
-    <Compile Include="Healt Tech\Interface\IPrioritario.cs" />
     <Compile Include="Healt Tech\modelos\CitaMedica.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -1,0 +1,7 @@
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\ferreteria pro1\bin\Debug\ferreteria pro1.exe.config
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\ferreteria pro1\bin\Debug\ferreteria pro1.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\ferreteria pro1\bin\Debug\ferreteria pro1.pdb
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\ferreteria pro1\obj\Debug\ferreteria pro1.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\ferreteria pro1\obj\Debug\ferreteria pro1.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\ferreteria pro1\obj\Debug\ferreteria pro1.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\ferreteria pro1\obj\Debug\ferreteria pro1.pdb
