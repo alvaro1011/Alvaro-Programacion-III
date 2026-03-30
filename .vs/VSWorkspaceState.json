@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\segundo corte"
+    "\\segundo corte",
+    "\\segundo corte\\Informacion_Personal"
   ],
+  "SelectedNode": "\\segundo corte\\Informacion_Personal\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }

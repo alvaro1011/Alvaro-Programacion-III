@@ -1,0 +1,10 @@
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\configuracion con pestañas\bin\Debug\configuracion con pestañas.exe.config
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\configuracion con pestañas\bin\Debug\configuracion con pestañas.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\configuracion con pestañas\bin\Debug\configuracion con pestañas.pdb
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\configuracion con pestañas\obj\Debug\configuracion con pestañas.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\configuracion con pestañas\obj\Debug\configuracion_con_pestañas.Form1.resources
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\configuracion con pestañas\obj\Debug\configuracion_con_pestañas.Properties.Resources.resources
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\configuracion con pestañas\obj\Debug\configuracion con pestañas.csproj.GenerateResource.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\configuracion con pestañas\obj\Debug\configuracion con pestañas.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\configuracion con pestañas\obj\Debug\configuracion con pestañas.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\configuracion con pestañas\obj\Debug\configuracion con pestañas.pdb
