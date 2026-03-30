@@ -1,0 +1,10 @@
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\Informacion_Personal\bin\Debug\Informacion_Personal.exe.config
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\Informacion_Personal\bin\Debug\Informacion_Personal.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\Informacion_Personal\bin\Debug\Informacion_Personal.pdb
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\Informacion_Personal\obj\Debug\Informacion_Personal.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\Informacion_Personal\obj\Debug\Informacion_Personal.Form1.resources
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\Informacion_Personal\obj\Debug\Informacion_Personal.Properties.Resources.resources
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\Informacion_Personal\obj\Debug\Informacion_Personal.csproj.GenerateResource.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\Informacion_Personal\obj\Debug\Informacion_Personal.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\Informacion_Personal\obj\Debug\Informacion_Personal.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\Informacion_Personal\obj\Debug\Informacion_Personal.pdb
