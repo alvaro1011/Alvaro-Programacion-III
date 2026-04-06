@@ -8,3 +8,13 @@ C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Catálogo de
 C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Catálogo de Producto (E-commerce)\Catálogo de Producto (E-commerce)\obj\Debug\Catálogo de Producto (E-commerce).csproj.CoreCompileInputs.cache
 C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Catálogo de Producto (E-commerce)\Catálogo de Producto (E-commerce)\obj\Debug\Catálogo de Producto (E-commerce).exe
 C:\Users\mezac\OneDrive\Documentos\GitHub\ProgIII-04A\Segundo Corte\Catálogo de Producto (E-commerce)\Catálogo de Producto (E-commerce)\obj\Debug\Catálogo de Producto (E-commerce).pdb
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\Catálogo de Producto (E-commerce)\Catálogo de Producto (E-commerce)\bin\Debug\Catálogo de Producto (E-commerce).exe.config
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\Catálogo de Producto (E-commerce)\Catálogo de Producto (E-commerce)\bin\Debug\Catálogo de Producto (E-commerce).exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\Catálogo de Producto (E-commerce)\Catálogo de Producto (E-commerce)\bin\Debug\Catálogo de Producto (E-commerce).pdb
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\Catálogo de Producto (E-commerce)\Catálogo de Producto (E-commerce)\obj\Debug\Catálogo de Producto (E-commerce).csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\Catálogo de Producto (E-commerce)\Catálogo de Producto (E-commerce)\obj\Debug\Catálogo_de_Producto__E_commerce_.Form1.resources
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\Catálogo de Producto (E-commerce)\Catálogo de Producto (E-commerce)\obj\Debug\Catálogo_de_Producto__E_commerce_.Properties.Resources.resources
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\Catálogo de Producto (E-commerce)\Catálogo de Producto (E-commerce)\obj\Debug\Catálogo de Producto (E-commerce).csproj.GenerateResource.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\Catálogo de Producto (E-commerce)\Catálogo de Producto (E-commerce)\obj\Debug\Catálogo de Producto (E-commerce).csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\Catálogo de Producto (E-commerce)\Catálogo de Producto (E-commerce)\obj\Debug\Catálogo de Producto (E-commerce).exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\Catálogo de Producto (E-commerce)\Catálogo de Producto (E-commerce)\obj\Debug\Catálogo de Producto (E-commerce).pdb
