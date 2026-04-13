@@ -1,0 +1,10 @@
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\reto\bin\Debug\reto.exe.config
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\reto\bin\Debug\reto.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\reto\bin\Debug\reto.pdb
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\reto\obj\Debug\reto.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\reto\obj\Debug\reto.Form1.resources
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\reto\obj\Debug\reto.Properties.Resources.resources
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\reto\obj\Debug\reto.csproj.GenerateResource.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\reto\obj\Debug\reto.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\reto\obj\Debug\reto.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\reto\obj\Debug\reto.pdb
