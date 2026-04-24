@@ -29,8 +29,8 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.name_alumn = new System.Windows.Forms.TextBox();
+            this.nota = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
@@ -48,8 +48,8 @@
             this.groupBox1.Controls.Add(this.button1);
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.label1);
-            this.groupBox1.Controls.Add(this.textBox2);
-            this.groupBox1.Controls.Add(this.textBox1);
+            this.groupBox1.Controls.Add(this.nota);
+            this.groupBox1.Controls.Add(this.name_alumn);
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.Location = new System.Drawing.Point(39, 33);
             this.groupBox1.Name = "groupBox1";
@@ -58,19 +58,19 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Nuevo registro";
             // 
-            // textBox1
+            // name_alumn
             // 
-            this.textBox1.Location = new System.Drawing.Point(28, 105);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(313, 30);
-            this.textBox1.TabIndex = 0;
+            this.name_alumn.Location = new System.Drawing.Point(28, 105);
+            this.name_alumn.Name = "name_alumn";
+            this.name_alumn.Size = new System.Drawing.Size(313, 30);
+            this.name_alumn.TabIndex = 0;
             // 
-            // textBox2
+            // nota
             // 
-            this.textBox2.Location = new System.Drawing.Point(412, 105);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(393, 30);
-            this.textBox2.TabIndex = 1;
+            this.nota.Location = new System.Drawing.Point(412, 105);
+            this.nota.Name = "nota";
+            this.nota.Size = new System.Drawing.Size(393, 30);
+            this.nota.TabIndex = 1;
             // 
             // label1
             // 
@@ -161,8 +161,8 @@
         #endregion
 
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox nota;
+        private System.Windows.Forms.TextBox name_alumn;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button1;
