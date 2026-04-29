@@ -21,5 +21,10 @@ namespace tienda_virtual_gamer
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
