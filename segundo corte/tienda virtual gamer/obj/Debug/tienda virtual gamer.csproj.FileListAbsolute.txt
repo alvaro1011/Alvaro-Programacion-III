@@ -1,0 +1,14 @@
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\tienda virtual gamer\bin\Debug\tienda virtual gamer.exe.config
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\tienda virtual gamer\bin\Debug\tienda virtual gamer.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\tienda virtual gamer\bin\Debug\tienda virtual gamer.pdb
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\tienda virtual gamer\obj\Debug\tienda virtual gamer.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\tienda virtual gamer\obj\Debug\tienda_virtual_gamer.Form1.resources
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\tienda virtual gamer\obj\Debug\tienda_virtual_gamer.Form2.resources
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\tienda virtual gamer\obj\Debug\tienda_virtual_gamer.Form3.resources
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\tienda virtual gamer\obj\Debug\tienda_virtual_gamer.Form4.resources
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\tienda virtual gamer\obj\Debug\tienda_virtual_gamer.Form5.resources
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\tienda virtual gamer\obj\Debug\tienda_virtual_gamer.Properties.Resources.resources
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\tienda virtual gamer\obj\Debug\tienda virtual gamer.csproj.GenerateResource.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\tienda virtual gamer\obj\Debug\tienda virtual gamer.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\tienda virtual gamer\obj\Debug\tienda virtual gamer.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Alvaro-Programacion-III\segundo corte\tienda virtual gamer\obj\Debug\tienda virtual gamer.pdb
