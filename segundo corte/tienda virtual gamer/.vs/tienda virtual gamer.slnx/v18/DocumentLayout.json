@@ -3,24 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|c:\\users\\alvar\\onedrive\\documentos\\github\\alvaro-programacion-iii\\segundo corte\\tienda virtual gamer\\views\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|c:\\users\\alvar\\onedrive\\documentos\\github\\alvaro-programacion-iii\\segundo corte\\tienda virtual gamer\\models\\csvreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|solutionrelative:models\\csvreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|c:\\users\\alvar\\onedrive\\documentos\\github\\alvaro-programacion-iii\\segundo corte\\tienda virtual gamer\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|solutionrelative:app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\views\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|solutionrelative:views\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|c:\\users\\alvar\\onedrive\\documentos\\github\\alvaro-programacion-iii\\segundo corte\\tienda virtual gamer\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|solutionrelative:views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|c:\\users\\alvar\\onedrive\\documentos\\github\\alvaro-programacion-iii\\segundo corte\\tienda virtual gamer\\views\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|solutionrelative:views\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|c:\\users\\alvar\\onedrive\\documentos\\github\\alvaro-programacion-iii\\segundo corte\\tienda virtual gamer\\views\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|solutionrelative:views\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|c:\\users\\alvar\\onedrive\\documentos\\github\\alvaro-programacion-iii\\segundo corte\\tienda virtual gamer\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\views\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|solutionrelative:views\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\views\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|solutionrelative:views\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|solutionrelative:views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\views\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|solutionrelative:views\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|c:\\users\\alvar\\onedrive\\documentos\\github\\alvaro-programacion-iii\\segundo corte\\tienda virtual gamer\\views\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|solutionrelative:views\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|c:\\users\\alvar\\onedrive\\documentos\\github\\alvaro-programacion-iii\\segundo corte\\tienda virtual gamer\\views\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|solutionrelative:views\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\views\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|solutionrelative:views\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|solutionrelative:views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\controller\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|solutionrelative:controller\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|c:\\users\\alvar\\onedrive\\documentos\\github\\alvaro-programacion-iii\\segundo corte\\tienda virtual gamer\\models\\gridhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|solutionrelative:models\\gridhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C557289D-01DD-4CB1-A943-F2474F70C7E4}|tienda virtual gamer.csproj|C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -34,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,20 +86,147 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\app.manifest",
+              "RelativeDocumentMoniker": "app.manifest",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\app.manifest",
+              "RelativeToolTip": "app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2026-05-03T06:31:46.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CsvReader.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Models\\CsvReader.cs",
+              "RelativeDocumentMoniker": "Models\\CsvReader.cs",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Models\\CsvReader.cs",
+              "RelativeToolTip": "Models\\CsvReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T03:47:08.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GridHelper.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Models\\GridHelper.cs",
+              "RelativeDocumentMoniker": "Models\\GridHelper.cs",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Models\\GridHelper.cs",
+              "RelativeToolTip": "Models\\GridHelper.cs",
+              "ViewState": "AgIAACIBAAAAAAAAAAAYwCwBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T03:46:28.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Views\\Form5.cs",
+              "RelativeDocumentMoniker": "Views\\Form5.cs",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Views\\Form5.cs",
+              "RelativeToolTip": "Views\\Form5.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAkwKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T03:30:19.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Views\\Form2.cs",
+              "RelativeDocumentMoniker": "Views\\Form2.cs",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Views\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Views\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T11:23:18.38Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Views\\Form4.cs",
+              "RelativeDocumentMoniker": "Views\\Form4.cs",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Views\\Form4.cs",
+              "RelativeToolTip": "Views\\Form4.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T02:56:49.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Views\\Form3.cs",
+              "RelativeDocumentMoniker": "Views\\Form3.cs",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Views\\Form3.cs",
+              "RelativeToolTip": "Views\\Form3.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAkwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T20:31:53.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Views\\Form4.cs",
+              "RelativeDocumentMoniker": "Views\\Form4.cs",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Views\\Form4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Views\\Form4.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T20:45:27.504Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Views\\Form3.cs",
+              "RelativeDocumentMoniker": "Views\\Form3.cs",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Views\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Views\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T20:31:48.839Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Controller\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Controller\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Controller\\ProductoController.cs",
+              "RelativeToolTip": "Controller\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T19:29:04.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Views\\Form1.cs",
               "RelativeDocumentMoniker": "Views\\Form1.cs",
               "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Views\\Form1.cs",
               "RelativeToolTip": "Views\\Form1.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAowCkAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAIA5wD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-24T11:52:39.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\App.config",
               "RelativeDocumentMoniker": "App.config",
@@ -72,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form5.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Views\\Form5.cs",
               "RelativeDocumentMoniker": "Views\\Form5.cs",
@@ -84,31 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form4.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Views\\Form4.cs",
-              "RelativeDocumentMoniker": "Views\\Form4.cs",
-              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Views\\Form4.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Views\\Form4.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T11:23:22.684Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form2.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Views\\Form2.cs",
-              "RelativeDocumentMoniker": "Views\\Form2.cs",
-              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Views\\Form2.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Views\\Form2.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T11:23:18.38Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Views\\Form1.cs",
               "RelativeDocumentMoniker": "Views\\Form1.cs",
@@ -117,6 +260,32 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-24T11:23:08.834Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Views\\Form2.cs",
+              "RelativeDocumentMoniker": "Views\\Form2.cs",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Views\\Form2.cs",
+              "RelativeToolTip": "Views\\Form2.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAawHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T20:26:10.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\Documentos\\GitHub\\Alvaro-Programacion-III\\segundo corte\\tienda virtual gamer\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T19:54:59.82Z",
+              "EditorCaption": ""
             }
           ]
         }
