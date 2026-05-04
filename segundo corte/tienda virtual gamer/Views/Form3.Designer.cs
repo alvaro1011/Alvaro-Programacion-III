@@ -29,6 +29,8 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
             this.btnRegistrarEntrada = new System.Windows.Forms.Button();
             this.txtObservacion = new System.Windows.Forms.TextBox();
             this.numStock = new System.Windows.Forms.NumericUpDown();
@@ -41,8 +43,6 @@
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.button2 = new System.Windows.Forms.Button();
             this.dtgDatosProductos = new System.Windows.Forms.DataGridView();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numStock)).BeginInit();
             this.groupBox2.SuspendLayout();
@@ -71,6 +71,28 @@
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Registrar entrada";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("ROG Fonts STRIX SCAR", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.ForeColor = System.Drawing.Color.DarkMagenta;
+            this.label7.Location = new System.Drawing.Point(110, 285);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(83, 21);
+            this.label7.TabIndex = 9;
+            this.label7.Text = "Store";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("ROG Fonts STRIX SCAR", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.ForeColor = System.Drawing.Color.LavenderBlush;
+            this.label6.Location = new System.Drawing.Point(19, 285);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(85, 21);
+            this.label6.TabIndex = 8;
+            this.label6.Text = "Gamer";
             // 
             // btnRegistrarEntrada
             // 
@@ -103,9 +125,9 @@
             // cmbCodigoProducto
             // 
             this.cmbCodigoProducto.FormattingEnabled = true;
-            this.cmbCodigoProducto.Location = new System.Drawing.Point(260, 108);
+            this.cmbCodigoProducto.Location = new System.Drawing.Point(216, 108);
             this.cmbCodigoProducto.Name = "cmbCodigoProducto";
-            this.cmbCodigoProducto.Size = new System.Drawing.Size(121, 29);
+            this.cmbCodigoProducto.Size = new System.Drawing.Size(165, 29);
             this.cmbCodigoProducto.TabIndex = 5;
             // 
             // dateFecha
@@ -189,28 +211,6 @@
             this.dtgDatosProductos.RowTemplate.Height = 24;
             this.dtgDatosProductos.Size = new System.Drawing.Size(479, 264);
             this.dtgDatosProductos.TabIndex = 0;
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("ROG Fonts STRIX SCAR", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.ForeColor = System.Drawing.Color.DarkMagenta;
-            this.label7.Location = new System.Drawing.Point(110, 285);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(83, 21);
-            this.label7.TabIndex = 9;
-            this.label7.Text = "Store";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("ROG Fonts STRIX SCAR", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.ForeColor = System.Drawing.Color.LavenderBlush;
-            this.label6.Location = new System.Drawing.Point(19, 285);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(85, 21);
-            this.label6.TabIndex = 8;
-            this.label6.Text = "Gamer";
             // 
             // Form3
             // 

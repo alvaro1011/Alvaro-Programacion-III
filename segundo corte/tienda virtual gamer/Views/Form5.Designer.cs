@@ -124,10 +124,10 @@
             // lblTotalSalidas
             // 
             this.lblTotalSalidas.AutoSize = true;
-            this.lblTotalSalidas.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTotalSalidas.Location = new System.Drawing.Point(148, 23);
+            this.lblTotalSalidas.Font = new System.Drawing.Font("ROG Fonts STRIX SCAR", 12F);
+            this.lblTotalSalidas.Location = new System.Drawing.Point(145, 28);
             this.lblTotalSalidas.Name = "lblTotalSalidas";
-            this.lblTotalSalidas.Size = new System.Drawing.Size(31, 22);
+            this.lblTotalSalidas.Size = new System.Drawing.Size(40, 24);
             this.lblTotalSalidas.TabIndex = 6;
             this.lblTotalSalidas.Text = "+0";
             // 
@@ -154,10 +154,10 @@
             // lblProductosStockBajo
             // 
             this.lblProductosStockBajo.AutoSize = true;
-            this.lblProductosStockBajo.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblProductosStockBajo.Font = new System.Drawing.Font("ROG Fonts STRIX SCAR", 12F);
             this.lblProductosStockBajo.Location = new System.Drawing.Point(145, 26);
             this.lblProductosStockBajo.Name = "lblProductosStockBajo";
-            this.lblProductosStockBajo.Size = new System.Drawing.Size(31, 22);
+            this.lblProductosStockBajo.Size = new System.Drawing.Size(40, 24);
             this.lblProductosStockBajo.TabIndex = 8;
             this.lblProductosStockBajo.Text = "+0";
             this.lblProductosStockBajo.Click += new System.EventHandler(this.lblProductosStockBajo_Click);
@@ -241,10 +241,10 @@
             // lblProductosIngresados
             // 
             this.lblProductosIngresados.AutoSize = true;
-            this.lblProductosIngresados.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblProductosIngresados.Location = new System.Drawing.Point(152, 16);
+            this.lblProductosIngresados.Font = new System.Drawing.Font("ROG Fonts STRIX SCAR", 12F);
+            this.lblProductosIngresados.Location = new System.Drawing.Point(145, 25);
             this.lblProductosIngresados.Name = "lblProductosIngresados";
-            this.lblProductosIngresados.Size = new System.Drawing.Size(31, 22);
+            this.lblProductosIngresados.Size = new System.Drawing.Size(40, 24);
             this.lblProductosIngresados.TabIndex = 4;
             this.lblProductosIngresados.Text = "+0";
             this.lblProductosIngresados.Click += new System.EventHandler(this.label1_Click);

@@ -45,9 +45,9 @@
             this.dtgDatosProductos = new System.Windows.Forms.DataGridView();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.button4 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
+            this.txtCodigo_borrar = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numStock)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numPrecio)).BeginInit();
@@ -161,6 +161,11 @@
             // numPrecio
             // 
             this.numPrecio.Location = new System.Drawing.Point(92, 161);
+            this.numPrecio.Maximum = new decimal(new int[] {
+            1316134911,
+            2328,
+            0,
+            0});
             this.numPrecio.Name = "numPrecio";
             this.numPrecio.Size = new System.Drawing.Size(120, 22);
             this.numPrecio.TabIndex = 4;
@@ -218,8 +223,8 @@
             // 
             // groupBox2
             // 
+            this.groupBox2.Controls.Add(this.txtCodigo_borrar);
             this.groupBox2.Controls.Add(this.button4);
-            this.groupBox2.Controls.Add(this.button3);
             this.groupBox2.Controls.Add(this.dtgDatosProductos);
             this.groupBox2.Font = new System.Drawing.Font("ROG Fonts STRIX SCAR", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox2.ForeColor = System.Drawing.SystemColors.MenuHighlight;
@@ -235,24 +240,13 @@
             this.button4.BackColor = System.Drawing.Color.MidnightBlue;
             this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button4.ForeColor = System.Drawing.Color.DarkOrange;
-            this.button4.Location = new System.Drawing.Point(287, 335);
+            this.button4.Location = new System.Drawing.Point(392, 333);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(150, 32);
             this.button4.TabIndex = 13;
-            this.button4.Text = "Eliminar";
+            this.button4.Text = "btnEliminar";
             this.button4.UseVisualStyleBackColor = false;
-            // 
-            // button3
-            // 
-            this.button3.BackColor = System.Drawing.Color.MidnightBlue;
-            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button3.ForeColor = System.Drawing.Color.DarkOrange;
-            this.button3.Location = new System.Drawing.Point(85, 335);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(173, 32);
-            this.button3.TabIndex = 12;
-            this.button3.Text = "Actualizar";
-            this.button3.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // label6
             // 
@@ -276,6 +270,13 @@
             this.label7.TabIndex = 4;
             this.label7.Text = "Store";
             // 
+            // txtCodigo_borrar
+            // 
+            this.txtCodigo_borrar.Location = new System.Drawing.Point(280, 338);
+            this.txtCodigo_borrar.Name = "txtCodigo_borrar";
+            this.txtCodigo_borrar.Size = new System.Drawing.Size(96, 23);
+            this.txtCodigo_borrar.TabIndex = 14;
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -296,6 +297,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.numPrecio)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dtgDatosProductos)).EndInit();
             this.groupBox2.ResumeLayout(false);
+            this.groupBox2.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -319,8 +321,8 @@
         private System.Windows.Forms.DataGridView dtgDatosProductos;
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.TextBox txtCodigo_borrar;
     }
 }

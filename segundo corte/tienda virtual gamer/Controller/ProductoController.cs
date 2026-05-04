@@ -24,6 +24,22 @@ namespace tienda_virtual_gamer.Controller
             return Path.Combine(carpeta, "Productos.csv");
         }
 
+        public void EliminarProducto(string codigo)
+        {
+            string ruta = ObtenerRutaProductos();
+            string[] lineas = File.ReadAllLines(ruta, Encoding.UTF8);
+            List<string> nuevasLineas = new List<string>();
+            foreach (string linea in lineas)
+            {
+                if (string.IsNullOrWhiteSpace(linea)) continue;
+                string[] datos = linea.Split(';');
+                if (datos[0].Trim() != codigo.Trim())
+                    nuevasLineas.Add(linea);
+           
+            }
+            File.WriteAllLines(ruta, nuevasLineas, Encoding.UTF8);
+        }
+
         private string ObtenerRutaEntradas()
         {
             string carpeta = ObtenerCarpeta();

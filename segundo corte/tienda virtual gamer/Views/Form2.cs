@@ -114,5 +114,31 @@ namespace tienda_virtual_gamer
         {
 
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            string producto_borrar = txtCodigo_borrar.Text;
+            for (int i = 0; i < dtgDatosProductos.Rows.Count; i++)
+            {
+                if (dtgDatosProductos.Rows[i].Cells[0].Value != null &&
+                    dtgDatosProductos.Rows[i].Cells[0].Value.ToString() == producto_borrar)
+                {
+                    try
+                    {
+                        _controller.EliminarProducto(producto_borrar);
+                        ActualizarTablaProductos();
+                        txtCodigo_borrar.Clear();
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("Error al eliminar el producto:\n" + ex.Message,
+                            "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                    return;
+                }
+            }
+
+
+        }
     }
 }
